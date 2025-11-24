@@ -1,0 +1,3 @@
+[submodule "crsf-ros2"]
+	path = crsf-ros2
+	url = https://github.com/arunser/crsf-ros2.git
