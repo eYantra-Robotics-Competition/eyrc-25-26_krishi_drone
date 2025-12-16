@@ -4,14 +4,14 @@
   <name>swift_pico_hw</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="stormbreaker.004@gmail.com">arunser</maintainer>
+  <maintainer email="drone@e-yantra.org">eyantra_drone_team</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <depend>rclcpp</depend>
   <depend>rc_msgs</depend>
   <depend>waypoint_navigation</depend>
-  <depend>pid_msg</depend>
+  <depend>controller_msg</depend>
   <depend>geometry_msgs</depend>
   <depend>rclpy</depend>
 
