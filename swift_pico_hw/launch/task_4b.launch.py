@@ -47,7 +47,7 @@ def generate_launch_description():
         ),
 
         Node(
-            package='crsf_ros2s',
+            package='crsf_ros2',
             executable='crsf_ros',
             name='crsf_ros',
             output='screen'
