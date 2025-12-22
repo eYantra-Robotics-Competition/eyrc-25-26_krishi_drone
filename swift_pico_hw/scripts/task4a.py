@@ -14,7 +14,7 @@ class InfectedPlantsPublisher(Node):
         self.publisher_ = self.create_publisher(String, '/detected_plants', 10)
 
 
-        self.infected_plants = []
+        self.infected_plants = ['P1X', 'P2X']
 
     def publish_data(self):
         msg = String()
